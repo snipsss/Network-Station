@@ -1,0 +1,39 @@
+#pragma once
+#include "SocketHandle.h"
+#include "PResultCLS.h"
+#include "ipVersion.h"
+#include "SocketOptions.h"
+#include "ipEndPoint.h"
+#include "ConstantCLS.h"
+#include "Package.h"
+
+namespace PNet
+{
+    class Socket
+    {
+        public:
+            Socket(IpVersion ipversion = IpVersion::IP_v4, SocketHandle handle = INVALID_SOCKET);
+            Result Create();
+            Result CloseSocket();
+            SocketHandle GetHandle();
+            Result Bind(IpEndPoint endpoint);
+            IpVersion GetIpVersion();
+            Result Listen(IpEndPoint endpoint, int backlog = 5);
+            Result Accpet(Socket& outSock);
+            Result Connect(IpEndPoint endpoint);
+            Result SendPackage(const void *data ,int numberofbytes,int& bytesSent);
+            Result SentAllPackage(const void* destination, int numberOfBytes);
+            Result Recv(void* destination, int numberofBytes, int& bytesRecives);
+            Result RecvAll(void* data, int numberOfBytes);
+            Result Recvive(Packet& packet);
+            Result SendIt(Packet& packet);
+
+    private:
+        Result SetSocketOption(SocketOption option, BOOL value);
+        IpVersion ipVersion = PNet::IP_v4;
+        SocketHandle handle = INVALID_SOCKET;
+
+    };
+
+
+}

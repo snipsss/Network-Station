@@ -1,0 +1,4 @@
+/home/valeriikupriianov/IWantToDie/build/CMakeFiles/IpValidatorUI.dir
+/home/valeriikupriianov/IWantToDie/build/CMakeFiles/edit_cache.dir
+/home/valeriikupriianov/IWantToDie/build/CMakeFiles/rebuild_cache.dir
+/home/valeriikupriianov/IWantToDie/build/CMakeFiles/IpValidatorUI_autogen.dir
