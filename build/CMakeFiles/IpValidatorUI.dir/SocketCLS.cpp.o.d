@@ -1,12 +1,12 @@
 CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o: \
- /home/valeriikupriianov/IWantToDie/Src/SocketCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/Src/SocketCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/SocketHandle.h \
- /home/valeriikupriianov/IWantToDie/Src/PResultCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/ipVersion.h \
- /home/valeriikupriianov/IWantToDie/Src/SocketOptions.h \
- /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketHandle.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PResultCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ipVersion.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketOptions.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -178,10 +178,10 @@ CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
  /usr/include/x86_64-linux-gnu/bits/netdb.h /usr/include/netinet/tcp.h \
- /home/valeriikupriianov/IWantToDie/Src/ConstantCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/Package.h \
- /home/valeriikupriianov/IWantToDie/Src/PackageExtenntionCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/PackageType.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ConstantCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageExtenntionCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageType.h \
  /usr/include/assert.h /usr/include/c++/11/cassert /usr/include/unistd.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \

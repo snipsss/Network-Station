@@ -11,11 +11,12 @@ set(CMAKE_AUTOUIC ON)
 
 
 find_package(Qt5 REQUIRED COMPONENTS Widgets)
-
+find_package(Qt5Charts)
 
 add_executable(IpValidatorUI /
 IWantToDie.pro
 ButtonsCLS.cpp
+PlotNetCLS.cpp
 ButtonsServerCLS.cpp
 ipEndPoint.cpp
 main.cpp
@@ -28,6 +29,7 @@ TableCLS.cpp
 TableCLS.cpp
 ValidatorCLS.cpp
 ButtonsCLS.h
+PlotNetCLS.h
 ButtonsServerCLS.h
 ConstantCLS.h
 includeMe.h
@@ -46,5 +48,5 @@ TableCLS.h
 ValidatorCLS.h
 )
 
-target_link_libraries(IpValidatorUI PRIVATE Qt5::Widgets)
+target_link_libraries(IpValidatorUI PRIVATE Qt5::Widgets Qt5::Charts)
 set_target_properties(IpValidatorUI PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin")

@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/valeriikupriianov/IWantToDie/Src
+CMAKE_SOURCE_DIR = /home/valeriikupriianov/QTValidator/Network-Station/Src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/valeriikupriianov/IWantToDie/build
+CMAKE_BINARY_DIR = /home/valeriikupriianov/QTValidator/Network-Station/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/valeriikupriianov/IWantToDie/build/CMakeFiles /home/valeriikupriianov/IWantToDie/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles /home/valeriikupriianov/QTValidator/Network-Station/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/valeriikupriianov/IWantToDie/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -261,6 +261,30 @@ Package.s: Package.cpp.s
 Package.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/IpValidatorUI.dir/build.make CMakeFiles/IpValidatorUI.dir/Package.cpp.s
 .PHONY : Package.cpp.s
+
+PlotNetCLS.o: PlotNetCLS.cpp.o
+.PHONY : PlotNetCLS.o
+
+# target to build an object file
+PlotNetCLS.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IpValidatorUI.dir/build.make CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o
+.PHONY : PlotNetCLS.cpp.o
+
+PlotNetCLS.i: PlotNetCLS.cpp.i
+.PHONY : PlotNetCLS.i
+
+# target to preprocess a source file
+PlotNetCLS.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IpValidatorUI.dir/build.make CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.i
+.PHONY : PlotNetCLS.cpp.i
+
+PlotNetCLS.s: PlotNetCLS.cpp.s
+.PHONY : PlotNetCLS.s
+
+# target to generate assembly for a file
+PlotNetCLS.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/IpValidatorUI.dir/build.make CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.s
+.PHONY : PlotNetCLS.cpp.s
 
 ServerInit.o: ServerInit.cpp.o
 .PHONY : ServerInit.o
@@ -455,6 +479,9 @@ help:
 	@echo "... Package.o"
 	@echo "... Package.i"
 	@echo "... Package.s"
+	@echo "... PlotNetCLS.o"
+	@echo "... PlotNetCLS.i"
+	@echo "... PlotNetCLS.s"
 	@echo "... ServerInit.o"
 	@echo "... ServerInit.i"
 	@echo "... ServerInit.s"

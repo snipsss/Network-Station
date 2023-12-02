@@ -1,4 +1,4 @@
-# Install script for directory: /home/valeriikupriianov/IWantToDie/Src
+# Install script for directory: /home/valeriikupriianov/QTValidator/Network-Station/Src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/valeriikupriianov/IWantToDie/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/valeriikupriianov/QTValidator/Network-Station/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

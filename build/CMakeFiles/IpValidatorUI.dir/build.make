@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/valeriikupriianov/IWantToDie/Src
+CMAKE_SOURCE_DIR = /home/valeriikupriianov/QTValidator/Network-Station/Src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/valeriikupriianov/IWantToDie/build
+CMAKE_BINARY_DIR = /home/valeriikupriianov/QTValidator/Network-Station/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/IpValidatorUI.dir/depend.make
@@ -72,175 +72,190 @@ include CMakeFiles/IpValidatorUI.dir/flags.make
 CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
 CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: IpValidatorUI_autogen/mocs_compilation.cpp
 CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o -MF CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o -c /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o -MF CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/mocs_compilation.cpp
 
 CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/mocs_compilation.cpp > CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/mocs_compilation.cpp > CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/mocs_compilation.cpp -o CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/mocs_compilation.cpp -o CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o: /home/valeriikupriianov/IWantToDie/Src/ButtonsCLS.cpp
+CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsCLS.cpp
 CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/ButtonsCLS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsCLS.cpp
 
 CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/ButtonsCLS.cpp > CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsCLS.cpp > CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/ButtonsCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.s
+
+CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
+CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/PlotNetCLS.cpp
+CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/PlotNetCLS.cpp
+
+CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/PlotNetCLS.cpp > CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.i
+
+CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/PlotNetCLS.cpp -o CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o: /home/valeriikupriianov/IWantToDie/Src/ButtonsServerCLS.cpp
+CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsServerCLS.cpp
 CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/ButtonsServerCLS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsServerCLS.cpp
 
 CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/ButtonsServerCLS.cpp > CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsServerCLS.cpp > CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/ButtonsServerCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsServerCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o: /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.cpp
+CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.cpp
 CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.cpp
 
 CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.cpp > CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.cpp > CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.cpp -o CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.cpp -o CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/main.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/main.cpp.o: /home/valeriikupriianov/IWantToDie/Src/main.cpp
+CMakeFiles/IpValidatorUI.dir/main.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/main.cpp
 CMakeFiles/IpValidatorUI.dir/main.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/IpValidatorUI.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/main.cpp.o -MF CMakeFiles/IpValidatorUI.dir/main.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/main.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/IpValidatorUI.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/main.cpp.o -MF CMakeFiles/IpValidatorUI.dir/main.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/main.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/main.cpp
 
 CMakeFiles/IpValidatorUI.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/main.cpp > CMakeFiles/IpValidatorUI.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/main.cpp > CMakeFiles/IpValidatorUI.dir/main.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/main.cpp -o CMakeFiles/IpValidatorUI.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/main.cpp -o CMakeFiles/IpValidatorUI.dir/main.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o: /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.cpp
+CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.cpp
 CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.cpp
 
 CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.cpp > CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.cpp > CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.cpp -o CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.cpp -o CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/Package.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/Package.cpp.o: /home/valeriikupriianov/IWantToDie/Src/Package.cpp
+CMakeFiles/IpValidatorUI.dir/Package.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.cpp
 CMakeFiles/IpValidatorUI.dir/Package.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/IpValidatorUI.dir/Package.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/Package.cpp.o -MF CMakeFiles/IpValidatorUI.dir/Package.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/Package.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/Package.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/IpValidatorUI.dir/Package.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/Package.cpp.o -MF CMakeFiles/IpValidatorUI.dir/Package.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/Package.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.cpp
 
 CMakeFiles/IpValidatorUI.dir/Package.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/Package.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/Package.cpp > CMakeFiles/IpValidatorUI.dir/Package.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.cpp > CMakeFiles/IpValidatorUI.dir/Package.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/Package.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/Package.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/Package.cpp -o CMakeFiles/IpValidatorUI.dir/Package.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.cpp -o CMakeFiles/IpValidatorUI.dir/Package.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: /home/valeriikupriianov/IWantToDie/Src/ServerInit.cpp
+CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerInit.cpp
 CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/ServerInit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerInit.cpp
 
 CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/ServerInit.cpp > CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerInit.cpp > CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/ServerInit.cpp -o CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerInit.cpp -o CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o: /home/valeriikupriianov/IWantToDie/Src/ServerRunnerCLS.cpp
+CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerRunnerCLS.cpp
 CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/ServerRunnerCLS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerRunnerCLS.cpp
 
 CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/ServerRunnerCLS.cpp > CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerRunnerCLS.cpp > CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/ServerRunnerCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerRunnerCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o: /home/valeriikupriianov/IWantToDie/Src/SocketCLS.cpp
+CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.cpp
 CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/SocketCLS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.cpp
 
 CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/SocketCLS.cpp > CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.cpp > CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/SocketCLS.cpp -o CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.cpp -o CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o: /home/valeriikupriianov/IWantToDie/Src/TableCLS.cpp
+CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/TableCLS.cpp
 CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/TableCLS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/TableCLS.cpp
 
 CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/TableCLS.cpp > CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/TableCLS.cpp > CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/TableCLS.cpp -o CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/TableCLS.cpp -o CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.s
 
 CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/flags.make
-CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o: /home/valeriikupriianov/IWantToDie/Src/ValidatorCLS.cpp
+CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o: /home/valeriikupriianov/QTValidator/Network-Station/Src/ValidatorCLS.cpp
 CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o: CMakeFiles/IpValidatorUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o -c /home/valeriikupriianov/IWantToDie/Src/ValidatorCLS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o -MF CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o.d -o CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o -c /home/valeriikupriianov/QTValidator/Network-Station/Src/ValidatorCLS.cpp
 
 CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/IWantToDie/Src/ValidatorCLS.cpp > CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/QTValidator/Network-Station/Src/ValidatorCLS.cpp > CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.i
 
 CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/IWantToDie/Src/ValidatorCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/QTValidator/Network-Station/Src/ValidatorCLS.cpp -o CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.s
 
 # Object files for target IpValidatorUI
 IpValidatorUI_OBJECTS = \
 "CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o" \
+"CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o" \
 "CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o" \
 "CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o" \
 "CMakeFiles/IpValidatorUI.dir/main.cpp.o" \
@@ -257,6 +272,7 @@ IpValidatorUI_EXTERNAL_OBJECTS =
 
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o
+bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/ButtonsServerCLS.cpp.o
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/main.cpp.o
@@ -268,11 +284,12 @@ bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/SocketCLS.cpp.o
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/TableCLS.cpp.o
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/build.make
+bin/IpValidatorUI: /usr/lib/x86_64-linux-gnu/libQt5Charts.so.5.15.3
 bin/IpValidatorUI: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3
 bin/IpValidatorUI: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3
 bin/IpValidatorUI: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3
 bin/IpValidatorUI: CMakeFiles/IpValidatorUI.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable bin/IpValidatorUI"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable bin/IpValidatorUI"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/IpValidatorUI.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -284,6 +301,6 @@ CMakeFiles/IpValidatorUI.dir/clean:
 .PHONY : CMakeFiles/IpValidatorUI.dir/clean
 
 CMakeFiles/IpValidatorUI.dir/depend:
-	cd /home/valeriikupriianov/IWantToDie/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/valeriikupriianov/IWantToDie/Src /home/valeriikupriianov/IWantToDie/Src /home/valeriikupriianov/IWantToDie/build /home/valeriikupriianov/IWantToDie/build /home/valeriikupriianov/IWantToDie/build/CMakeFiles/IpValidatorUI.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/valeriikupriianov/QTValidator/Network-Station/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/valeriikupriianov/QTValidator/Network-Station/Src /home/valeriikupriianov/QTValidator/Network-Station/Src /home/valeriikupriianov/QTValidator/Network-Station/build /home/valeriikupriianov/QTValidator/Network-Station/build /home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles/IpValidatorUI.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/IpValidatorUI.dir/depend
 

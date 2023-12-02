@@ -1,5 +1,5 @@
-/home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ButtonsCLS.cpp: /home/valeriikupriianov/IWantToDie/Src/ButtonsCLS.h \
-  /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/moc_predefs.h \
+/home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ButtonsCLS.cpp: /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/moc_predefs.h \
   /usr/include/assert.h \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/array \

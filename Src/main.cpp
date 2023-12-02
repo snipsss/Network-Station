@@ -10,6 +10,7 @@
 #include <QScrollArea>
 #include "threadserver.h"
 #include "ServerRunnerCLS.h"
+#include "PlotNetCLS.h"
 
 int LineCounter(QFile* file)
 {
@@ -35,7 +36,7 @@ int main(int argc, char *argv[])
     //pQWdidget->setStyleSheet("/home/valeriikupriianov/Downloads/USGOV.jpg");
     QGridLayout* pGridLayout = new QGridLayout;
     //QGridLayout* pServerLayout = new QGridLayout;
-    QFile* m_file = new QFile("/home/valeriikupriianov/IWantToDie/Src/iplist.txt");
+    QFile* m_file = new QFile("/home/valeriikupriianov/QTValidator/Network-Station/Src/iplist.txt");
     m_file->open(QIODevice::ReadOnly | QIODevice::Text);
     //uploadData(pTableWidget,m_file);
     QHBoxLayout* phboxLayout = new QHBoxLayout;
@@ -65,6 +66,31 @@ int main(int argc, char *argv[])
 
 
 
+    // Network Plot part
+    NetPlotCLS monitor;
+    QtCharts::QChart* m_pChart = new QtCharts::QChart;
+    QtCharts::QChartView* m_pChartView = new QtCharts::QChartView;
+    QtCharts::QLineSeries* m_pSeries = new QtCharts::QLineSeries();
+    QVBoxLayout* vboxlayout = new QVBoxLayout;
+    monitor.setBoxLayout(vboxlayout);
+    monitor.setBoxLayout(vboxlayout);
+    monitor.setChart(m_pChart);
+    monitor.setChartView(m_pChartView);
+    monitor.setSeries(m_pSeries);
+
+    m_pChart->legend()->hide();
+    m_pChart->addSeries(m_pSeries);
+    m_pChart->createDefaultAxes();
+    m_pChart->setTitle("Network Speed Monitor");
+    m_pChartView->setRenderHint(QPainter::Antialiasing);
+    m_pChartView->setChart(m_pChart);
+
+    vboxlayout->addWidget(m_pChartView);
+
+    monitor.resize(420, 420);
+    //monitor.updatePlot();
+    //monitor.show();
+
 
 
     //pServerInitOject->quitServerSession(prunnerObject);
@@ -75,7 +101,7 @@ int main(int argc, char *argv[])
     Socket* p_socketObject = new Socket;
     RunnerSRV* prunnerObject = new RunnerSRV(p_socketObject,pServerThread);
     prunnerObject->setQTextEdit(ptextEdit);
-    prunnerObject->getTextEdt()->setFixedSize(420,420);
+    prunnerObject->getTextEdt()->setFixedSize(720,400);
     prunnerObject->show();
     pGridLayout->addWidget(prunnerObject->getTextEdt(),0,1);
     ServerInit* pServerInitOject = new ServerInit(prunnerObject);
@@ -85,6 +111,7 @@ int main(int argc, char *argv[])
     pServerThread->start();
     //pServerThread->quit();
 
+    pGridLayout->addLayout(monitor.getVBoxLayout(),3,1);
     pGridLayout->addLayout(pServerButtons->getLayout(),2,1);
     pGridLayout->addLayout(pButtons->getLayout(), 1, 0);
     //rRunnerSRV* pServerRunner = new RunnerSRV;
@@ -97,8 +124,9 @@ int main(int argc, char *argv[])
    // pQWdidget->setLayout(pServerLayout);
     //RunServer();
 
-    pQWdidget->setFixedSize(1000,500);
+    pQWdidget->setFixedSize(1500,900);
     pQWdidget->show();
+
 
 
     return a.exec();

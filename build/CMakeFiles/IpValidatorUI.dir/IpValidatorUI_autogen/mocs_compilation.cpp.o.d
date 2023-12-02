@@ -1,7 +1,7 @@
 CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/mocs_compilation.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ButtonsCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ButtonsCLS.cpp \
  /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -117,7 +117,7 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
  /usr/include/c++/11/pstl/execution_defs.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ButtonsCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ButtonsCLS.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QFile \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h \
@@ -245,8 +245,8 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/11/chrono /usr/include/c++/11/ratio \
  /usr/include/c++/11/limits /usr/include/c++/11/ctime \
  /usr/include/c++/11/bits/parse_numbers.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ButtonsServerCLS.cpp \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ButtonsServerCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ButtonsServerCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ButtonsServerCLS.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHBoxLayout \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
@@ -262,7 +262,7 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qpoint.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/MainServerRun.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/MainServerRun.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qobject.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton \
@@ -295,8 +295,8 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontmetrics.h \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontinfo.h \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ServerWidget.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/threadserver.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ServerWidget.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/threadserver.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QtCore \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QtCoreDepends \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qglobal.h \
@@ -566,15 +566,15 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qxmlstream.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qtcoreversion.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QThread \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ServerRunnerCLS.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/includeMe.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/NetWorkCLS.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/SocketCLS.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/SocketHandle.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/PResultCLS.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ipVersion.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/SocketOptions.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ipEndPoint.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ServerRunnerCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/includeMe.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/NetWorkCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/SocketCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/SocketHandle.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/PResultCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ipVersion.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/SocketOptions.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ipEndPoint.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/bits/basic_ios.h \
  /usr/include/c++/11/bits/locale_facets.h /usr/include/c++/11/cwctype \
@@ -606,10 +606,10 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
  /usr/include/x86_64-linux-gnu/bits/netdb.h /usr/include/netinet/tcp.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ConstantCLS.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/Package.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/PackageExtenntionCLS.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/PackageType.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/ConstantCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/Package.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/PackageExtenntionCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/PackageType.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTextEdit \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextedit.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h \
@@ -619,14 +619,173 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ServerWidget.cpp \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/moc_TableCLS.cpp \
- /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/TableCLS.h \
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTableWidget \
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtablewidget.h \
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtableview.h \
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemview.h \
- /usr/include/x86_64-linux-gnu/qt5/QtCore/qitemselectionmodel.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_PlotNetCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/PlotNetCLS.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qguiapplication.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QtWidgets \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QtWidgetsDepends \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QtCore \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QtGui \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QtGuiDepends \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtguiglobal.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qabstracttextdocumentlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qevent.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qglyphrun.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qrawfont.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontdatabase.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qaccessible.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qaccessiblebridge.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qfactoryinterface.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qaccessibleobject.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qaccessible.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qaccessibleplugin.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qbackingstore.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QEvent \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QMargins \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QRect \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qsurface.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qsurfaceformat.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qbitmap.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qbrush.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qclipboard.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolorspace.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolortransform.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolortransform.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qdesktopservices.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qstandardpaths.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qdrag.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qevent.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qfont.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontdatabase.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontinfo.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontmetrics.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qgenericmatrix.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qgenericplugin.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qgenericpluginfactory.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qglyphrun.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qguiapplication.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qiconengine.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qiconengineplugin.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qimage.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qimageiohandler.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qimagereader.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qimageiohandler.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qimagewriter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qmatrix.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qmatrix4x4.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector3d.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector4d.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qquaternion.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qgenericmatrix.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qmovie.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qimagereader.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qoffscreensurface.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopengl.h /usr/include/GL/gl.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglext.h \
+ /usr/include/inttypes.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglbuffer.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopengl.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglcontext.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QScopedPointer \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QSurfaceFormat \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qsurfaceformat.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglversionfunctions.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopengldebug.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglcontext.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglextrafunctions.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglfunctions.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglframebufferobject.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglfunctions.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglpaintdevice.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglpixeltransferoptions.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QSharedDataPointer \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglshaderprogram.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qmatrix4x4.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopengltexture.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopengltextureblitter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QMatrix3x3 \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QMatrix4x4 \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopengltimerquery.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglversionfunctions.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglvertexarrayobject.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qopenglwindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QPaintDeviceWindow \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpaintdevicewindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QWindow \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QPaintDevice \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpaintdevice.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QOpenGLContext \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QImage \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpagedpaintdevice.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpagelayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpagesize.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpagelayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpagesize.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpaintengine.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpainter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpainter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpainterpath.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpalette.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpdfwriter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpagedpaintdevice.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpicture.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpictureformatplugin.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpixelformat.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpixmap.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpixmapcache.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpolygon.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qquaternion.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qrasterwindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qrawfont.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qregion.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qrgb.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qrgba64.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qscreen.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QList \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QSize \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QSizeF \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QTransform \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtransform.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qsessionmanager.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qstandarditemmodel.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qstatictext.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qstylehints.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qsurface.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qsyntaxhighlighter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextobject.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextdocument.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextdocumentfragment.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextdocumentwriter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextlist.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextobject.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtexttable.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qvalidator.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector3d.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector4d.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qtguiversion.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemdelegate.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleoption.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractspinbox.h \
@@ -636,4 +795,252 @@ CMakeFiles/IpValidatorUI.dir/IpValidatorUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyle.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabbar.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qitemselectionmodel.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemdelegate.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractspinbox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaccessiblewidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qaccessibleobject.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaction.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qactiongroup.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qaction.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qactiongroup.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qbuttongroup.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcalendarwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcheckbox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcolordialog.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcolormap.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcolumnview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcombobox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcommandlinkbutton.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcommonstyle.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcompleter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdatawidgetmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdatetimeedit.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qcalendar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdesktopwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdial.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialogbuttonbox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdirmodel.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfileiconprovider.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdockwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdrawutil.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qerrormessage.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfiledialog.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfileiconprovider.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfilesystemmodel.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qdiriterator.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfocusframe.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfontcombobox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcombobox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qfontdialog.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qformlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLayout \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgesture.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgesturerecognizer.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsanchorlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsitem.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qpainterpath.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicslayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicslayoutitem.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicseffect.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsgridlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsitem.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsitemanimation.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicslayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicslayoutitem.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicslinearlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsproxywidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicswidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsscene.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicssceneevent.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicstransform.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QVector3D \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollarea.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsscene.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicswidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgroupbox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qheaderview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qinputdialog.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qitemdelegate.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qitemeditorfactory.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qkeyeventtransition.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/qeventtransition.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qkeysequenceedit.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlcdnumber.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlistview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlistwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlistview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmdiarea.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmdisubwindow.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenu.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenubar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmenu.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmessagebox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmouseeventtransition.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qopenglwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qplaintextedit.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextedit.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/qabstracttextdocumentlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressbar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressdialog.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qproxystyle.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QCommonStyle \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qradiobutton.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollarea.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollbar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscroller.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QPointF \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QScrollerProperties \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollerproperties.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QMetaType \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qshortcut.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizegrip.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qspinbox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsplashscreen.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsplitter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstackedlayout.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstackedwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstatusbar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyle.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleditemdelegate.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstylefactory.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleoption.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstylepainter.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleplugin.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsystemtrayicon.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabbar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtableview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtablewidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtableview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextbrowser.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtoolbar.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtoolbox.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtoolbutton.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtooltip.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtreeview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtreewidget.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtreeview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtreewidgetitemiterator.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtreewidgetitemiterator.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qundogroup.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qundostack.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qundoview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwhatsthis.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidgetaction.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwizard.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsversion.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QtCharts \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QtChartsDepends \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QtWidgets \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qchartglobal.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCore/QtGlobal \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/chartsnamespace.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qabstractaxis.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QChartGlobal \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QPen \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QFont \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qabstractbarseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QAbstractSeries \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qabstractseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QAbstractAxis \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qarealegendmarker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QLegendMarker \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qlegendmarker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QLegend \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qlegend.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QGraphicsWidget \
+ /usr/include/x86_64-linux-gnu/qt5/QtGui/QBrush \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QAreaSeries \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qareaseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarcategoryaxis.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarlegendmarker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QAbstractBarSeries \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QBarSet \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarset.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qboxplotlegendmarker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QBoxPlotSeries \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qboxplotseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QBoxSet \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qboxset.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qboxplotmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qcandlesticklegendmarker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QCandlestickSeries \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qcandlestickseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qcandlestickmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qcandlestickset.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qcategoryaxis.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QValueAxis \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qvalueaxis.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qchart.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qchartview.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QChart \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QGraphicsView \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qdatetimeaxis.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhbarmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QBarModelMapper \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhboxplotmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QBoxPlotModelMapper \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhcandlestickmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QCandlestickModelMapper \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhorizontalbarseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhorizontalpercentbarseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhorizontalstackedbarseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhpiemodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QPieModelMapper \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qpiemodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qhxymodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QXYModelMapper \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qxymodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qlineseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QXYSeries \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qxyseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qlogvalueaxis.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qpercentbarseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qpielegendmarker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QPieSeries \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qpieseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/QPieSlice \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qpieslice.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qpolarchart.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qscatterseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qxyseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qsplineseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qlineseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qstackedbarseries.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qvbarmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qvboxplotmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qvcandlestickmodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qvpiemodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qvxymodelmapper.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qxylegendmarker.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtCharts/qtchartsversion.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ServerWidget.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_TableCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/../../../Src/TableCLS.h \
+ /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTableWidget

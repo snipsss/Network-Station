@@ -1,7 +1,7 @@
 CMakeFiles/IpValidatorUI.dir/ValidatorCLS.cpp.o: \
- /home/valeriikupriianov/IWantToDie/Src/ValidatorCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ValidatorCLS.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/Src/ValidatorCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ValidatorCLS.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qchar.h \

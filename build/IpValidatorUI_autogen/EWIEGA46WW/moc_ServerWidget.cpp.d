@@ -1,19 +1,19 @@
-/home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ServerWidget.cpp: /home/valeriikupriianov/IWantToDie/Src/ServerWidget.h \
-  /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/moc_predefs.h \
-  /home/valeriikupriianov/IWantToDie/Src/ConstantCLS.h \
-  /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.h \
-  /home/valeriikupriianov/IWantToDie/Src/PResultCLS.h \
-  /home/valeriikupriianov/IWantToDie/Src/Package.h \
-  /home/valeriikupriianov/IWantToDie/Src/PackageExtenntionCLS.h \
-  /home/valeriikupriianov/IWantToDie/Src/PackageType.h \
-  /home/valeriikupriianov/IWantToDie/Src/ServerRunnerCLS.h \
-  /home/valeriikupriianov/IWantToDie/Src/SocketCLS.h \
-  /home/valeriikupriianov/IWantToDie/Src/SocketHandle.h \
-  /home/valeriikupriianov/IWantToDie/Src/SocketOptions.h \
-  /home/valeriikupriianov/IWantToDie/Src/includeMe.h \
-  /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.h \
-  /home/valeriikupriianov/IWantToDie/Src/ipVersion.h \
-  /home/valeriikupriianov/IWantToDie/Src/threadserver.h \
+/home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_ServerWidget.cpp: /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerWidget.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/moc_predefs.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/ConstantCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/PResultCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageExtenntionCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageType.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerRunnerCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketHandle.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketOptions.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/includeMe.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/ipVersion.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/Src/threadserver.h \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

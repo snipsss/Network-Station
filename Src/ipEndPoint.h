@@ -27,7 +27,6 @@ namespace PNet
         sockaddr_in getSockAddIpV4();
         void print();
 
-
     private:
         IpVersion m_ipversion = IpVersion::Unknow;
         std::string m_hostname;

@@ -1,7 +1,7 @@
 CMakeFiles/IpValidatorUI.dir/Package.cpp.o: \
- /home/valeriikupriianov/IWantToDie/Src/Package.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/Src/Package.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.h \
  /usr/include/arpa/inet.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -170,6 +170,6 @@ CMakeFiles/IpValidatorUI.dir/Package.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/valeriikupriianov/IWantToDie/Src/PackageExtenntionCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/PackageType.h \
- /home/valeriikupriianov/IWantToDie/Src/ConstantCLS.h
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageExtenntionCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageType.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ConstantCLS.h

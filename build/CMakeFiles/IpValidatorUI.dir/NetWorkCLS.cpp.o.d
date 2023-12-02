@@ -1,7 +1,7 @@
 CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o: \
- /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

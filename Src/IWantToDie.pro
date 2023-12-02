@@ -1,6 +1,8 @@
 QT       += core gui
+QT += charts
 
-greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+greaterThan(QT_MAJOR_VERSION, 5): QT += widgets
+
 
 CONFIG += c++11
 
@@ -13,6 +15,7 @@ SOURCES += \
     ButtonsServerCLS.cpp \
     NetWorkCLS.cpp \
     Package.cpp \
+    PlotNetCLS.cpp \
     ServerInit.cpp \
     ServerRunnerCLS.cpp \
     SocketCLS.cpp \
@@ -30,6 +33,7 @@ HEADERS += \
     Package.h \
     PackageExtenntionCLS.h \
     PackageType.h \
+    PlotNetCLS.h \
     ServerRunnerCLS.h \
     ServerWidget.h \
     SocketCLS.h \

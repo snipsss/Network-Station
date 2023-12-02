@@ -1,8 +1,8 @@
 CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o: \
- /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.h \
- /home/valeriikupriianov/IWantToDie/Src/ipVersion.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ipVersion.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -174,6 +174,6 @@ CMakeFiles/IpValidatorUI.dir/ipEndPoint.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
  /usr/include/x86_64-linux-gnu/bits/netdb.h /usr/include/netinet/tcp.h \
- /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.h \
  /usr/include/c++/11/cassert /usr/include/assert.h /usr/include/string.h \
  /usr/include/strings.h

@@ -12,6 +12,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/IpValidatorUI.dir/NetWorkCLS.cpp.o.d"
   "CMakeFiles/IpValidatorUI.dir/Package.cpp.o"
   "CMakeFiles/IpValidatorUI.dir/Package.cpp.o.d"
+  "CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o"
+  "CMakeFiles/IpValidatorUI.dir/PlotNetCLS.cpp.o.d"
   "CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o"
   "CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o.d"
   "CMakeFiles/IpValidatorUI.dir/ServerRunnerCLS.cpp.o"

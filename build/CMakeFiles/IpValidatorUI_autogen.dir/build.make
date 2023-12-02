@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/valeriikupriianov/IWantToDie/Src
+CMAKE_SOURCE_DIR = /home/valeriikupriianov/QTValidator/Network-Station/Src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/valeriikupriianov/IWantToDie/build
+CMAKE_BINARY_DIR = /home/valeriikupriianov/QTValidator/Network-Station/build
 
 # Utility rule file for IpValidatorUI_autogen.
 
@@ -67,8 +67,8 @@ include CMakeFiles/IpValidatorUI_autogen.dir/compiler_depend.make
 include CMakeFiles/IpValidatorUI_autogen.dir/progress.make
 
 CMakeFiles/IpValidatorUI_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/valeriikupriianov/IWantToDie/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target IpValidatorUI"
-	/usr/bin/cmake -E cmake_autogen /home/valeriikupriianov/IWantToDie/build/CMakeFiles/IpValidatorUI_autogen.dir/AutogenInfo.json ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target IpValidatorUI"
+	/usr/bin/cmake -E cmake_autogen /home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles/IpValidatorUI_autogen.dir/AutogenInfo.json ""
 
 IpValidatorUI_autogen: CMakeFiles/IpValidatorUI_autogen
 IpValidatorUI_autogen: CMakeFiles/IpValidatorUI_autogen.dir/build.make
@@ -83,6 +83,6 @@ CMakeFiles/IpValidatorUI_autogen.dir/clean:
 .PHONY : CMakeFiles/IpValidatorUI_autogen.dir/clean
 
 CMakeFiles/IpValidatorUI_autogen.dir/depend:
-	cd /home/valeriikupriianov/IWantToDie/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/valeriikupriianov/IWantToDie/Src /home/valeriikupriianov/IWantToDie/Src /home/valeriikupriianov/IWantToDie/build /home/valeriikupriianov/IWantToDie/build /home/valeriikupriianov/IWantToDie/build/CMakeFiles/IpValidatorUI_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/valeriikupriianov/QTValidator/Network-Station/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/valeriikupriianov/QTValidator/Network-Station/Src /home/valeriikupriianov/QTValidator/Network-Station/Src /home/valeriikupriianov/QTValidator/Network-Station/build /home/valeriikupriianov/QTValidator/Network-Station/build /home/valeriikupriianov/QTValidator/Network-Station/build/CMakeFiles/IpValidatorUI_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/IpValidatorUI_autogen.dir/depend
 

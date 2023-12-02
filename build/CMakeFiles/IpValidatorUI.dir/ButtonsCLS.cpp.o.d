@@ -1,7 +1,7 @@
 CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o: \
- /home/valeriikupriianov/IWantToDie/Src/ButtonsCLS.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsCLS.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/Src/ButtonsCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ButtonsCLS.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QFile \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h \
@@ -234,7 +234,7 @@ CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o: \
  /usr/include/c++/11/chrono /usr/include/c++/11/ratio \
  /usr/include/c++/11/limits /usr/include/c++/11/ctime \
  /usr/include/c++/11/bits/parse_numbers.h \
- /home/valeriikupriianov/IWantToDie/Src/TableCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/TableCLS.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTableWidget \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtablewidget.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
@@ -1242,7 +1242,7 @@ CMakeFiles/IpValidatorUI.dir/ButtonsCLS.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QDialog \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
- /home/valeriikupriianov/IWantToDie/Src/ValidatorCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ValidatorCLS.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLayout \

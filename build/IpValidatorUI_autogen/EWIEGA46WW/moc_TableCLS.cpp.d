@@ -1,5 +1,5 @@
-/home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/EWIEGA46WW/moc_TableCLS.cpp: /home/valeriikupriianov/IWantToDie/Src/TableCLS.h \
-  /home/valeriikupriianov/IWantToDie/build/IpValidatorUI_autogen/moc_predefs.h \
+/home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/EWIEGA46WW/moc_TableCLS.cpp: /home/valeriikupriianov/QTValidator/Network-Station/Src/TableCLS.h \
+  /home/valeriikupriianov/QTValidator/Network-Station/build/IpValidatorUI_autogen/moc_predefs.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/assert.h \

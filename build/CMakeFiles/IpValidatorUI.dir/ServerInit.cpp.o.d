@@ -1,8 +1,8 @@
 CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: \
- /home/valeriikupriianov/IWantToDie/Src/ServerInit.cpp \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerInit.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/IWantToDie/Src/ServerWidget.h \
- /home/valeriikupriianov/IWantToDie/Src/threadserver.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerWidget.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/threadserver.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QtCore \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QtCoreDepends \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qglobal.h \
@@ -521,15 +521,15 @@ CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qxmlstream.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qtcoreversion.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QThread \
- /home/valeriikupriianov/IWantToDie/Src/ServerRunnerCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/includeMe.h \
- /home/valeriikupriianov/IWantToDie/Src/NetWorkCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/SocketCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/SocketHandle.h \
- /home/valeriikupriianov/IWantToDie/Src/PResultCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/ipVersion.h \
- /home/valeriikupriianov/IWantToDie/Src/SocketOptions.h \
- /home/valeriikupriianov/IWantToDie/Src/ipEndPoint.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ServerRunnerCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/includeMe.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/NetWorkCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketHandle.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PResultCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ipVersion.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/SocketOptions.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ipEndPoint.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/bits/basic_ios.h \
  /usr/include/c++/11/bits/locale_facets.h /usr/include/c++/11/cwctype \
@@ -561,10 +561,10 @@ CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
  /usr/include/x86_64-linux-gnu/bits/netdb.h /usr/include/netinet/tcp.h \
- /home/valeriikupriianov/IWantToDie/Src/ConstantCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/Package.h \
- /home/valeriikupriianov/IWantToDie/Src/PackageExtenntionCLS.h \
- /home/valeriikupriianov/IWantToDie/Src/PackageType.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/ConstantCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/Package.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageExtenntionCLS.h \
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/PackageType.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHBoxLayout \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
@@ -608,4 +608,4 @@ CMakeFiles/IpValidatorUI.dir/ServerInit.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QObject \
- /home/valeriikupriianov/IWantToDie/Src/MainServerRun.h
+ /home/valeriikupriianov/QTValidator/Network-Station/Src/MainServerRun.h
